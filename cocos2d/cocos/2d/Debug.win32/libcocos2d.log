@@ -1,0 +1,44 @@
+﻿2016/02/13 15:26:19 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\libcocos2d.vcxproj" (Build ターゲット)。
+     1>PreLinkEvent:
+         if not exist "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\" mkdir "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\freetype2\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\glfw3\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\curl\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\jpeg\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\png\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\tiff\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\webp\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\websockets\prebuilt\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\win32-specific\zlib\prebuilt\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\win32-specific\icon\prebuilt\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\win32-specific\gles\prebuilt\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\win32-specific\OpenalSoft\prebuilt\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\win32-specific\MP3Decoder\prebuilt\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\win32-specific\OggDecoder\prebuilt\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\sqlite3\libraries\win32\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         xcopy /Y /Q "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\..\..\external\chipmunk\prebuilt\win32\debug-lib\*.*" "C:\Documents\MyGame _2_4\proj.win32\Debug.win32\"
+         :VCEnd
+         1 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         4 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         3 個のファイルをコピーしました
+         1 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         6 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+         2 個のファイルをコピーしました
+       Link:
+         libcocos2d.vcxproj -> C:\Documents\MyGame _2_4\proj.win32\Debug.win32\libcocos2d.dll
+     1>プロジェクト "C:\Documents\MyGame _2_4\cocos2d\cocos\2d\libcocos2d.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.93
